@@ -13,6 +13,7 @@
 ### Resources
 - [Apple's Official Documentation](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 - [Online Swift Playground (at TutorialsPoint)](https://www.tutorialspoint.com/compile_swift_online.php)
+- [Swift & iOS courses (at Udacity)](https://www.udacity.com/courses/ios)
 - [LearnSwift - Community-driven collection of tutorials, articles, and more](https://learnswift.tips/)
 - [Ray Wenderlich - The most comprehensive community for all things Swift](https://www.raywenderlich.com/)
 - [Vapor - Server-side Swift framework](https://vapor.codes/)
